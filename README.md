@@ -123,4 +123,4 @@ for result in results:
 
 Now the Tweets are saved inside the "tweets" Index of Elasticsearch and you can build a dashboard that refreshes every few seconds.
 
-</br><img src="KibanaTwitterdashboard.PNG" width="800" height=auto />
+</br><img src="KibanaTwitterdashboard.png" width="800" height=auto />
